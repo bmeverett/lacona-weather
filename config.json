@@ -1,0 +1,8 @@
+{
+  "weather": {
+    "title": "Zip Code",
+    "description": "Zip Code of the weather to be displayed",
+    "type": "integer"
+    }
+  }
+
